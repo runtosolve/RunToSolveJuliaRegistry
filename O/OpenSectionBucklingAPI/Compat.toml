@@ -1,0 +1,9 @@
+[0]
+CUFSM = "0.1"
+CUFSMModalGeometry = "0.1"
+CrossSectionGeometry = "0.1"
+JSON = "1.6.0-1"
+LinesCurvesNodes = "0.1"
+OpenSectionBuckling = "0.1"
+SectionProperties = "0.1"
+cFSM = "0.1"
