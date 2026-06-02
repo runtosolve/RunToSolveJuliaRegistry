@@ -1,0 +1,3 @@
+name = "cFSM"
+uuid = "f62c156c-76c5-4505-9990-675440343290"
+repo = "https://github.com/runtosolve/cFSM.jl.git"
