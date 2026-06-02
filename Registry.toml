@@ -1,0 +1,6 @@
+name = "RunToSolveJuliaRegistry"
+uuid = "407ac96f-52f6-497f-aeca-d16f73898ecd"
+repo = "https://github.com/runtosolve/RunToSolveJuliaRegistry"
+description = "Julia registry for RunToSolve julia packages"
+
+[packages]
