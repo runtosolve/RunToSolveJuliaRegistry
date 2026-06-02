@@ -7,3 +7,4 @@ description = "Julia registry for RunToSolve julia packages"
 01f7396e-a581-4110-84fa-e8964400bef8 = { name = "AISIS100", path = "A/AISIS100" }
 82b4978f-06ae-48e0-88e8-a26b4f7a0fa1 = { name = "CUFSM", path = "C/CUFSM" }
 82fbcf34-b322-4c20-ba17-babb40f2cc8c = { name = "CUFSMModalGeometry", path = "C/CUFSMModalGeometry" }
+e5713cf4-1a83-4860-95bf-b82253e75fb4 = { name = "CrossSectionGeometry", path = "C/CrossSectionGeometry" }

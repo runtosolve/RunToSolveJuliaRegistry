@@ -1,0 +1,3 @@
+name = "CrossSectionGeometry"
+uuid = "e5713cf4-1a83-4860-95bf-b82253e75fb4"
+repo = "https://github.com/runtosolve/CrossSectionGeometry.jl.git"
