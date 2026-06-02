@@ -4,4 +4,5 @@ repo = "https://github.com/runtosolve/RunToSolveJuliaRegistry"
 description = "Julia registry for RunToSolve julia packages"
 
 [packages]
+01f7396e-a581-4110-84fa-e8964400bef8 = { name = "AISIS100", path = "A/AISIS100" }
 82b4978f-06ae-48e0-88e8-a26b4f7a0fa1 = { name = "CUFSM", path = "C/CUFSM" }
