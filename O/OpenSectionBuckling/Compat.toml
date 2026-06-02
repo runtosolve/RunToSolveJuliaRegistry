@@ -1,0 +1,6 @@
+[0]
+CUFSM = "0.1"
+CrossSectionGeometry = "0.1"
+LinearAlgebra = "1.12.0-1"
+LinesCurvesNodes = "0.1"
+cFSM = "0.1"
