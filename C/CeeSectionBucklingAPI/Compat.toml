@@ -1,0 +1,9 @@
+[0]
+AISIS100 = "0.1"
+CUFSM = "0.1"
+CUFSMModalGeometry = "0.1"
+CeeSectionBuckling = "0.1"
+CrossSectionGeometry = "0.1"
+JSON = "1.4.0-1"
+LinesCurvesNodes = "0.1"
+SectionProperties = "0.1"
