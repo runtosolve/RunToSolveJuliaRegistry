@@ -1,0 +1,3 @@
+name = "MeshExtrusions"
+uuid = "03d05e0c-52e7-4868-8973-a4323c22e768"
+repo = "https://github.com/runtosolve/MeshExtrusions.jl.git"

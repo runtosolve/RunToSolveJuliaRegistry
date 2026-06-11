@@ -6,6 +6,7 @@ description = "Julia registry for RunToSolve julia packages"
 [packages]
 01f7396e-a581-4110-84fa-e8964400bef8 = { name = "AISIS100", path = "A/AISIS100" }
 03320fb2-42b0-43fd-9b66-b95dbaa39193 = { name = "SectionProperties", path = "S/SectionProperties" }
+03d05e0c-52e7-4868-8973-a4323c22e768 = { name = "MeshExtrusions", path = "M/MeshExtrusions" }
 36b64f1b-83bf-4478-97ef-0e8c84cc1597 = { name = "OpenSectionBucklingAPI", path = "O/OpenSectionBucklingAPI" }
 3af0a89e-3553-4be3-bfd5-35d375a19f52 = { name = "Scottsdale", path = "S/Scottsdale" }
 3de819fd-b07e-4939-9fde-f678daf6906b = { name = "ABAQUSBuilder", path = "A/ABAQUSBuilder" }
