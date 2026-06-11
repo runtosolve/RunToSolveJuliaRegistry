@@ -1,0 +1,4 @@
+[0]
+DataFrames = "1.7.0-1"
+DelimitedFiles = "1.9.1-1"
+ReadWriteFind = "0.1"
