@@ -9,6 +9,7 @@ description = "Julia registry for RunToSolve julia packages"
 03d05e0c-52e7-4868-8973-a4323c22e768 = { name = "MeshExtrusions", path = "M/MeshExtrusions" }
 13c63290-a4b3-4d3c-a451-528dd2a6a092 = { name = "StressStrainCurves", path = "S/StressStrainCurves" }
 36b64f1b-83bf-4478-97ef-0e8c84cc1597 = { name = "OpenSectionBucklingAPI", path = "O/OpenSectionBucklingAPI" }
+38d688ed-b352-4089-95be-06ce88699eb3 = { name = "RescaleScripts", path = "R/RescaleScripts" }
 3af0a89e-3553-4be3-bfd5-35d375a19f52 = { name = "Scottsdale", path = "S/Scottsdale" }
 3de819fd-b07e-4939-9fde-f678daf6906b = { name = "ABAQUSBuilder", path = "A/ABAQUSBuilder" }
 58e103f9-c1dd-473d-8fd2-46aa5cb27d98 = { name = "CeeSectionBuckling", path = "C/CeeSectionBuckling" }
