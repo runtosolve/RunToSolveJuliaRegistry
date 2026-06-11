@@ -1,0 +1,3 @@
+name = "StressStrainCurves"
+uuid = "13c63290-a4b3-4d3c-a451-528dd2a6a092"
+repo = "https://github.com/runtosolve/StressStrainCurves.jl.git"
