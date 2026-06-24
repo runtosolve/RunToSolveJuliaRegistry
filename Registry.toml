@@ -12,6 +12,7 @@ description = "Julia registry for RunToSolve julia packages"
 38d688ed-b352-4089-95be-06ce88699eb3 = { name = "RescaleScripts", path = "R/RescaleScripts" }
 3af0a89e-3553-4be3-bfd5-35d375a19f52 = { name = "Scottsdale", path = "S/Scottsdale" }
 3de819fd-b07e-4939-9fde-f678daf6906b = { name = "AbaqusBuilder", path = "A/AbaqusBuilder" }
+5176468a-e923-4df6-a98b-077e68fa0a89 = { name = "SFIASections", path = "S/SFIASections" }
 51fbd389-9445-45b2-aa36-04d63be46a7e = { name = "Pinching4ModelFit", path = "P/Pinching4ModelFit" }
 58e103f9-c1dd-473d-8fd2-46aa5cb27d98 = { name = "CeeSectionBuckling", path = "C/CeeSectionBuckling" }
 6e1ff3fe-52ba-4718-9baa-43b124cc059a = { name = "ReadWriteFind", path = "R/ReadWriteFind" }
