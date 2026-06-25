@@ -16,6 +16,7 @@ description = "Julia registry for RunToSolve julia packages"
 51fbd389-9445-45b2-aa36-04d63be46a7e = { name = "Pinching4ModelFit", path = "P/Pinching4ModelFit" }
 58e103f9-c1dd-473d-8fd2-46aa5cb27d98 = { name = "CeeSectionBuckling", path = "C/CeeSectionBuckling" }
 6e1ff3fe-52ba-4718-9baa-43b124cc059a = { name = "ReadWriteFind", path = "R/ReadWriteFind" }
+720b0b74-7d22-47cf-9c9b-19f6078eb386 = { name = "PurlinLine", path = "P/PurlinLine" }
 74a74c3a-221d-4cd1-a4eb-c3c8149e7592 = { name = "LinesCurvesNodes", path = "L/LinesCurvesNodes" }
 82b4978f-06ae-48e0-88e8-a26b4f7a0fa1 = { name = "CUFSM", path = "C/CUFSM" }
 82fbcf34-b322-4c20-ba17-babb40f2cc8c = { name = "CUFSMModalGeometry", path = "C/CUFSMModalGeometry" }
