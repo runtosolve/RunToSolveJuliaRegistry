@@ -1,0 +1,9 @@
+[0]
+CSV = "0.10.16-0.10"
+CairoMakie = "0.15.12-0.15"
+DataFrames = "1.8.2-1"
+LinearAlgebra = "1.12.0-1"
+NonlinearSolve = "4.20.0-4"
+Parameters = "0.13.1-0.13"
+Rotations = "1.7.1-1"
+StaticArrays = "1.9.18-1"
