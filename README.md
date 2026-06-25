@@ -69,7 +69,7 @@ Pkg.update()            # upgrade all packages, or pass a name to update one
 
 ```julia
 using LocalRegistry
-register("RunToSolveJuliaRegistry")
+register(registry="RunToSolveJuliaRegistry")
 ```
 
 `register` will write the new package entry into the registry and push the change automatically. Passing the registry name explicitly is required if you have more than one custom registry; if `RunToSolveJuliaRegistry` is your only custom registry, `register()` works as well.
@@ -107,7 +107,7 @@ From a Julia session inside the package directory (environment activated):
 
 ```julia
 using LocalRegistry
-register("RunToSolveJuliaRegistry")
+register(registry="RunToSolveJuliaRegistry")
 ```
 
 `register` will read the new version from `Project.toml`, resolve the git tree hash, update the registry entry, and push the change. Passing the registry name explicitly is required if you have more than one custom registry; if `RunToSolveJuliaRegistry` is your only custom registry, `register()` works as well.
@@ -118,3 +118,24 @@ register("RunToSolveJuliaRegistry")
 Pkg.Registry.update()
 Pkg.status("CUFSM")   # replace with your package name — should show the new version
 ```
+
+### The `register` function
+
+```julia
+register(package=nothing; 
+         registry=nothing, 
+         repo=nothing, 
+         branch=nothing,
+         commit=true, 
+         push=true, 
+         allow_package_dirty=false)
+```
+
+| Argument | Default | Notes |
+|---|---|---|
+| `package` | `nothing` | Module or path; omit to use the current directory |
+| `registry` | `nothing` | Registry name; required only when you have **multiple** custom registries |
+| `repo` | `nothing` | Git remote URL; auto-detected from git config if omitted |
+| `commit` | `true` | Set to `false` to preview changes without committing to the registry |
+| `push` | `true` | Set to `false` to commit locally without pushing |
+| `allow_package_dirty` | `false` | Set to `true` to register with uncommitted working-tree changes |
