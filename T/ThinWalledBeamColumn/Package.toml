@@ -1,0 +1,3 @@
+name = "ThinWalledBeamColumn"
+uuid = "79be238d-76c4-453b-a7f7-71368c01feb5"
+repo = "https://github.com/runtosolve/ThinWalledBeamColumn.jl.git"
