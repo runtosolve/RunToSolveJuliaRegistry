@@ -1,0 +1,3 @@
+name = "FornbergFiniteDiff"
+uuid = "bc6155a8-87c8-416d-b52d-44cfacf6a7f1"
+repo = "https://github.com/runtosolve/FornbergFiniteDiff.jl.git"
