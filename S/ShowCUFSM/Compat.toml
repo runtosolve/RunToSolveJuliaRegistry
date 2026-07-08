@@ -1,3 +1,9 @@
 [0]
-CairoMakie = "0.13.2-0.13"
 LinearAlgebra = "1.11.0-1"
+
+["0-0.1.1"]
+CairoMakie = "0.13.2-0.13"
+
+["0.1.2-0"]
+CairoMakie = "0.15.13-0.15"
+LinesCurvesNodes = "0.1.1-0.1"
