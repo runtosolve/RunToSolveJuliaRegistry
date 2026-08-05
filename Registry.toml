@@ -30,6 +30,7 @@ description = "Julia registry for RunToSolve julia packages"
 82fbcf34-b322-4c20-ba17-babb40f2cc8c = { name = "CUFSMModalGeometry", path = "C/CUFSMModalGeometry" }
 8816d751-d931-4b1b-8c00-6f84a4aca6a5 = { name = "TrackSectionBuckling", path = "T/TrackSectionBuckling" }
 8b5721dd-6d21-4f06-a05c-d5e8b8c524b4 = { name = "PurlinLineAPI", path = "P/PurlinLineAPI" }
+8e77ad14-ffa2-4383-ba63-9109f971d658 = { name = "PlautBeamFiniteElement", path = "P/PlautBeamFiniteElement" }
 a0750c5e-ed94-4724-bdb6-51a58ed81540 = { name = "MarkoJIT", path = "M/MarkoJIT" }
 a27af054-6946-4f6a-873a-7094cb2f6768 = { name = "OpenSectionBuckling", path = "O/OpenSectionBuckling" }
 b36a06a5-eada-4387-b3fe-4e5973d65d5f = { name = "CeeSectionBucklingAPI", path = "C/CeeSectionBucklingAPI" }

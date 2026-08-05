@@ -1,0 +1,3 @@
+name = "PlautBeamFiniteElement"
+uuid = "8e77ad14-ffa2-4383-ba63-9109f971d658"
+repo = "https://github.com/RunToSolve/PlautBeamFiniteElement.jl"
