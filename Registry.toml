@@ -10,6 +10,7 @@ description = "Julia registry for RunToSolve julia packages"
 0ac833a1-d586-4577-9e6b-83a7c69b6692 = { name = "InternalForces", path = "I/InternalForces" }
 13c63290-a4b3-4d3c-a451-528dd2a6a092 = { name = "StressStrainCurves", path = "S/StressStrainCurves" }
 1c93ddf5-a21f-4e01-8bde-98213f7f7d54 = { name = "ThinWalledBeam", path = "T/ThinWalledBeam" }
+2ea43bc2-0fe6-4fd8-8336-285f989c2c93 = { name = "SteelDeckAPI", path = "S/SteelDeckAPI" }
 36b64f1b-83bf-4478-97ef-0e8c84cc1597 = { name = "OpenSectionBucklingAPI", path = "O/OpenSectionBucklingAPI" }
 38d688ed-b352-4089-95be-06ce88699eb3 = { name = "RescaleScripts", path = "R/RescaleScripts" }
 3af0a89e-3553-4be3-bfd5-35d375a19f52 = { name = "Scottsdale", path = "S/Scottsdale" }
