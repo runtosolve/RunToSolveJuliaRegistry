@@ -1,9 +1,14 @@
 [0]
-AISIS100 = "0.1"
 CUFSM = "0.1"
 CrossSectionGeometry = "0.1"
 LinesCurvesNodes = "0.1"
 SectionProperties = "0.1"
 
+["0-0.3.1"]
+AISIS100 = "0.1"
+
 ["0.2-0"]
 OpenSectionBuckling = "0.1"
+
+["0.3.2-0"]
+AISIS100 = "0.1-0.2"
