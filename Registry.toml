@@ -37,6 +37,7 @@ a0750c5e-ed94-4724-bdb6-51a58ed81540 = { name = "MarkoJIT", path = "M/MarkoJIT" 
 a27af054-6946-4f6a-873a-7094cb2f6768 = { name = "OpenSectionBuckling", path = "O/OpenSectionBuckling" }
 b36a06a5-eada-4387-b3fe-4e5973d65d5f = { name = "CeeSectionBucklingAPI", path = "C/CeeSectionBucklingAPI" }
 bc6155a8-87c8-416d-b52d-44cfacf6a7f1 = { name = "FornbergFiniteDiff", path = "F/FornbergFiniteDiff" }
+c5ecd523-07be-43e1-985f-00bf5bb2bacd = { name = "RoofHugger_PlautBeamFE", path = "R/RoofHugger_PlautBeamFE" }
 cbb0b250-4dff-4a17-ad42-954ddce0ef99 = { name = "DigitalOceanScripts", path = "D/DigitalOceanScripts" }
 d3430bf0-0225-451a-9ff4-b8bc4d43c133 = { name = "BasePlateMesh", path = "B/BasePlateMesh" }
 e5713cf4-1a83-4860-95bf-b82253e75fb4 = { name = "CrossSectionGeometry", path = "C/CrossSectionGeometry" }
