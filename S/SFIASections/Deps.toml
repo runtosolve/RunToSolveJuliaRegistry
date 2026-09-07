@@ -1,3 +1,6 @@
 [0]
 Serialization = "9e88b42a-f829-5b0c-bbe9-9e923198166b"
 TrackSectionBuckling = "8816d751-d931-4b1b-8c00-6f84a4aca6a5"
+
+["0.2-0"]
+CeeSectionBuckling = "58e103f9-c1dd-473d-8fd2-46aa5cb27d98"
