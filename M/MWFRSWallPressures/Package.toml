@@ -1,0 +1,3 @@
+name = "MWFRSWallPressures"
+uuid = "c298e99a-826e-4b82-afdf-d35390b65c9c"
+repo = "https://github.com/runtosolve/MWFRSWallPressures.jl.git"
