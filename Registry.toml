@@ -37,6 +37,7 @@ description = "Julia registry for RunToSolve julia packages"
 8e77ad14-ffa2-4383-ba63-9109f971d658 = { name = "PlautBeamFiniteElement", path = "P/PlautBeamFiniteElement" }
 a0750c5e-ed94-4724-bdb6-51a58ed81540 = { name = "MarkoJIT", path = "M/MarkoJIT" }
 a27af054-6946-4f6a-873a-7094cb2f6768 = { name = "OpenSectionBuckling", path = "O/OpenSectionBuckling" }
+a45b55a3-f080-4392-acba-796e05a72a03 = { name = "PlautBeamColumnElement", path = "P/PlautBeamColumnElement" }
 b36a06a5-eada-4387-b3fe-4e5973d65d5f = { name = "CeeSectionBucklingAPI", path = "C/CeeSectionBucklingAPI" }
 b9d9e0c9-4330-47ef-bf35-aa432b15f141 = { name = "CCWallPressures", path = "C/CCWallPressures" }
 bc6155a8-87c8-416d-b52d-44cfacf6a7f1 = { name = "FornbergFiniteDiff", path = "F/FornbergFiniteDiff" }
