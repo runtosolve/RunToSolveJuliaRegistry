@@ -14,4 +14,9 @@ PurlinLine = "720b0b74-7d22-47cf-9c9b-19f6078eb386"
 ScrewConnections = "5bf228db-695e-4268-9ee9-a0e568bd4ab1"
 SectionProperties = "03320fb2-42b0-43fd-9b66-b95dbaa39193"
 ThinWalledBeam = "1c93ddf5-a21f-4e01-8bde-98213f7f7d54"
+
+["0-0.2"]
 ThinWalledBeamColumn = "79be238d-76c4-453b-a7f7-71368c01feb5"
+
+["0.3-0"]
+PlautBeamColumnElement = "a45b55a3-f080-4392-acba-796e05a72a03"
