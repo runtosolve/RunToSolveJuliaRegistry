@@ -49,6 +49,5 @@ cbb0b250-4dff-4a17-ad42-954ddce0ef99 = { name = "DigitalOceanScripts", path = "D
 d3430bf0-0225-451a-9ff4-b8bc4d43c133 = { name = "BasePlateMesh", path = "B/BasePlateMesh" }
 e5713cf4-1a83-4860-95bf-b82253e75fb4 = { name = "CrossSectionGeometry", path = "C/CrossSectionGeometry" }
 ec1a422f-4e5c-49d2-8d10-a9864177de89 = { name = "Pinching4Model", path = "P/Pinching4Model" }
-f25badfd-1de4-4a10-8062-211381391a00 = { name = "IntelliFrame", path = "I/IntelliFrame" }
 f4933341-f7dd-4bb2-b40b-c5759dce756a = { name = "TopHatDesigner", path = "T/TopHatDesigner" }
 f62c156c-76c5-4505-9990-675440343290 = { name = "cFSM", path = "C/cFSM" }
