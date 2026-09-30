@@ -42,6 +42,7 @@ a45b55a3-f080-4392-acba-796e05a72a03 = { name = "PlautBeamColumnElement", path =
 b36a06a5-eada-4387-b3fe-4e5973d65d5f = { name = "CeeSectionBucklingAPI", path = "C/CeeSectionBucklingAPI" }
 b9d9e0c9-4330-47ef-bf35-aa432b15f141 = { name = "CCWallPressures", path = "C/CCWallPressures" }
 bc6155a8-87c8-416d-b52d-44cfacf6a7f1 = { name = "FornbergFiniteDiff", path = "F/FornbergFiniteDiff" }
+be289a4a-cf0a-4030-a25d-154d36140a20 = { name = "SnowDrifts", path = "S/SnowDrifts" }
 c298e99a-826e-4b82-afdf-d35390b65c9c = { name = "MWFRSWallPressures", path = "M/MWFRSWallPressures" }
 c5ecd523-07be-43e1-985f-00bf5bb2bacd = { name = "RoofHugger_PlautBeamFE", path = "R/RoofHugger_PlautBeamFE" }
 c711d8e2-3c36-42bd-ab89-130c422747a9 = { name = "CCRoofPressures", path = "C/CCRoofPressures" }
