@@ -1,0 +1,3 @@
+name = "SeismicLoads"
+uuid = "cfb10ded-d7aa-479a-baec-296306625a52"
+repo = "https://github.com/runtosolve/SeismicLoads.jl.git"

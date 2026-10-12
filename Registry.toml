@@ -48,6 +48,7 @@ c298e99a-826e-4b82-afdf-d35390b65c9c = { name = "MWFRSWallPressures", path = "M/
 c5ecd523-07be-43e1-985f-00bf5bb2bacd = { name = "RoofHugger_PlautBeamFE", path = "R/RoofHugger_PlautBeamFE" }
 c711d8e2-3c36-42bd-ab89-130c422747a9 = { name = "CCRoofPressures", path = "C/CCRoofPressures" }
 cbb0b250-4dff-4a17-ad42-954ddce0ef99 = { name = "DigitalOceanScripts", path = "D/DigitalOceanScripts" }
+cfb10ded-d7aa-479a-baec-296306625a52 = { name = "SeismicLoads", path = "S/SeismicLoads" }
 d3430bf0-0225-451a-9ff4-b8bc4d43c133 = { name = "BasePlateMesh", path = "B/BasePlateMesh" }
 e5713cf4-1a83-4860-95bf-b82253e75fb4 = { name = "CrossSectionGeometry", path = "C/CrossSectionGeometry" }
 ec1a422f-4e5c-49d2-8d10-a9864177de89 = { name = "Pinching4Model", path = "P/Pinching4Model" }
