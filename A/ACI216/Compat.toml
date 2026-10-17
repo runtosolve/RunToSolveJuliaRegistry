@@ -1,0 +1,6 @@
+[0]
+CSV = "0.10.16-0.10"
+DataFrames = "1.8.1-1"
+Interpolations = "0.16.2-0.16"
+Printf = "1.11.0-1"
+StructTypes = "1"
