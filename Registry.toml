@@ -40,6 +40,7 @@ description = "Julia registry for RunToSolve julia packages"
 8e77ad14-ffa2-4383-ba63-9109f971d658 = { name = "PlautBeamFiniteElement", path = "P/PlautBeamFiniteElement" }
 9b36f528-c610-413a-8a0c-c354fc8dc317 = { name = "ACI216", path = "A/ACI216" }
 9d4c2b7e-5a31-4f8c-b6e2-7c0d1a3f5e91 = { name = "BucklingModeIdentification", path = "B/BucklingModeIdentification" }
+9f14a384-5833-4dcd-b020-8c10e4592f56 = { name = "SteelDeck", path = "S/SteelDeck" }
 a0750c5e-ed94-4724-bdb6-51a58ed81540 = { name = "MarkoJIT", path = "M/MarkoJIT" }
 a27af054-6946-4f6a-873a-7094cb2f6768 = { name = "OpenSectionBuckling", path = "O/OpenSectionBuckling" }
 a353469c-6ff7-4775-92cd-0d9fc911333c = { name = "SDIComposite", path = "S/SDIComposite" }
