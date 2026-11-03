@@ -10,6 +10,7 @@ description = "Julia registry for RunToSolve julia packages"
 0a55e547-dabe-434b-ba22-48cc8e6ce41f = { name = "SnowLoads", path = "S/SnowLoads" }
 0ac833a1-d586-4577-9e6b-83a7c69b6692 = { name = "InternalForces", path = "I/InternalForces" }
 13c63290-a4b3-4d3c-a451-528dd2a6a092 = { name = "StressStrainCurves", path = "S/StressStrainCurves" }
+1ae087d9-73e4-4680-9675-1d6b63e7ecef = { name = "PlautBeamElement", path = "P/PlautBeamElement" }
 1c93ddf5-a21f-4e01-8bde-98213f7f7d54 = { name = "ThinWalledBeam", path = "T/ThinWalledBeam" }
 1d9fddeb-a402-460f-a748-c30852a4eece = { name = "MWFRSRoofPressures", path = "M/MWFRSRoofPressures" }
 1de484bd-90ee-45b0-af4d-c2e7c0e744a2 = { name = "MWFRSRoofPressures_OpenBuildings", path = "M/MWFRSRoofPressures_OpenBuildings" }
